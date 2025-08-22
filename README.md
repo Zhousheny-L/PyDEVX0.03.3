@@ -1,5 +1,5 @@
 # PyDEVX0.03.3
-PYDEV REDME
+PYDEV REDME \n
 结构
 |...
 |OLD.PY ->未优化
