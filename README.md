@@ -1,5 +1,5 @@
 # PyDEVX0.03.3
-##一个python代码编辑器##
+## 一个python代码编辑器 ##
 >[🔗Github](https://github.com/Zhousheny-L/PyDEVX0.03.3/)<br />
 ----------------
 不错的功能:<br />
