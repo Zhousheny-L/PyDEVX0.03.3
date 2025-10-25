@@ -774,7 +774,7 @@ def cnt(event=None):
     get__()
 lstbox.bind("<Double-Button-1>", cnt)
 #======
-#剩下的也有大部分原创，只是不记得了
+
 lst_pyz.pack(side="left",fill="y")
 lst_pyz.configure(command=lstbox.yview)
 lstbox.config(yscrollcommand=lst_pyz.set)
@@ -1620,3 +1620,4 @@ root.mainloop()
 #TOTAL 1586 LINES
 #MADE IN CHINA,FREE,2025
 #感谢CSDN&DeepSeek以及所有中国开发博客的贡献
+
